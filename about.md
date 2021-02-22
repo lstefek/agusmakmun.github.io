@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I'm Analyst and Programmer, focusing on database integrations. 
 
-email: agus[at]python.web.id
+email: lstefek[at]gmail.com (reading that few times per month)
